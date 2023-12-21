@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">9</string>
+    <string name="random">Угадать</string>
+    <string name="randtxt">Угадает ваше число</string>
+    <string name="from">От</string>
+    <string name="to">До</string>
+    <string name="range">Диапазон</string>
+    <string name="more">Больше</string>
+    <string name="less">Меньше</string>
+    <string name="nextacttxt">Перейти к угадыванию числа пользователем</string>
+    <string name="tries">Попытка</string>
+    <string name="btntxt2">Загадать другое число</string>
+    <string name="backbtn">Вернуться</string>
+</resources>
